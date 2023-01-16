@@ -1,6 +1,14 @@
 # store_analysis
 
-Repositório de análise de dados com objetivo de analisar os dados fornecidos de uma loja e identificar insights e padrões, para, em seguida, criar um modelo de previsão para prever a probabilidade de um cliente dar uma resposta positiva à uma oferta.
+Repositório de análise de dados com objetivo de analisar os dados fornecidos de uma loja e identificar insights e padrões, para, em seguida, criar um modelo de previsão para prever a probabilidade de um cliente dar uma resposta positiva à uma oferta. Desafios do projeto:
+* Visualização de dados;
+* Exploração de dados;
+* Tratamento de dados;
+* Questionamento;
+* Solução de problemas;
+* Cálculos de dados;
+* Agregação de dados;
+* Análise de dados.
 
 # Início
 Dataset utilizado:
@@ -45,9 +53,9 @@ Bibliotecas utilizadas:
 |Response|1 se o cliente aceitou a oferta na última campanha, 0 caso contrário|int64|
 |Complain|1 se o cliente reclamou nos últimos 2 anos|int64|
 
-
-
-
 *Contexto*- Uma loja está planejando a liquidação de fim de ano. Eles querem lançar uma nova oferta - assinatura ouro, que dá 20% de desconto em todas as compras, por apenas $ 499, que é $ 999 nos outros dias. Ele será válido apenas para clientes existentes e a campanha por meio de ligações está sendo planejada para eles. A direção entende que a melhor forma de reduzir o custo da campanha é fazer um modelo preditivo que classifique os clientes que podem comprar a oferta.
 
 *Objetivo* - A superloja quer prever a probabilidade de o cliente dar uma resposta positiva e quer identificar os diferentes fatores que afetam a resposta do cliente. Você precisa analisar os dados fornecidos para identificar esses fatores e, em seguida, criar um modelo de previsão para prever a probabilidade de um cliente dar uma resposta positiva.
+
+---
+
