@@ -87,21 +87,9 @@ Nosso conjunto de dados é composto majoritariamente por clientes que não adqui
 
 ---
 
-![cat_perc](https://user-images.githubusercontent.com/105527623/213177187-777555c7-0035-49c0-a611-2233da5520e0.png) 
+# Insights
 
-Aqui temos o percentual de clientes que aceitaram ou não ofertas feitas anteriormente (de acordo com suas características). Repare que o percentual de aceitação se reflete à superioridade de alguns indivíduos dentro do dataset. Porém vejamos que a probabilidade de cada um aceitar uma nova oferta.
 
-![prob_ed](https://user-images.githubusercontent.com/105527623/213183345-9d777969-1504-4416-9267-804047722188.png)
-![prob_eciv](https://user-images.githubusercontent.com/105527623/213183818-6ec7bf4f-4e4b-4e1f-a5b9-87be0f3ab503.png)
-![prob_cri](https://user-images.githubusercontent.com/105527623/213183879-1b02d587-f014-40c4-8c2e-15e052aeebdc.png)
-![prob_jv](https://user-images.githubusercontent.com/105527623/213183882-2eb32531-3990-4e06-aa60-1f2f475eba3e.png)
-
-Apesar de alguns perfis serem maioria, com os gráfico acima vemos que:
-* PhDs tem mais chances de aceitar positivamente uma oferta do que os demais, como visto na parte laranja da barra.
-* Pessoas viúvas tem maior probabilidade de aceitar uma oferta, solteiros e divorciados não ficam muito atrás.
-* A probabilidade de sucesso diminui com o aumento de crianças e jovens em casa.
-
----
 
 
 
