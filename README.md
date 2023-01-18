@@ -53,20 +53,38 @@ Bibliotecas utilizadas:
 
 ---
 
-# Apresentação
-
 ## Sobre os dados:
 
 ![perc_10](https://user-images.githubusercontent.com/105527623/213175396-bec73389-8ae5-4db2-b76e-c2110101fa42.png)
 
 Nosso conjunto de dados é composto majoritariamente por clientes que não adquiriram nenhuma oferta. Em azul e representado pelo valor 0 temos aqueles que não aceitaram oferta alguma (85%), e em laranja, aqueles que responderam positivamente (15%)
 
-|Education|Percentual| |Marital_Status|Percentual| 
-|---------|----------| |--------------|----------|
-|Graduation|50%| |Married|65%|
+|Education|Percentual|  
+|---------|----------| 
+|Graduation|50%| 
 |Phd|21%|
 |Master|25%|
 |Basic|2%|
+
+|Marital_Status|Percentual|
+|--------------|----------|
+|Married|65%|
+|Single|22%|
+|Divorced|10%|
+|Widow|3%|
+
+|Kidhome|Percentual|
+|-------|----------|
+|0|58%|
+|1|40%|
+|2|2%|
+
+|Teenhome|Percentual|
+|--------|----------|
+|0|52%|
+|1|46%|
+|2|2%|
+
 
 ![cat_perc](https://user-images.githubusercontent.com/105527623/213177187-777555c7-0035-49c0-a611-2233da5520e0.png) 
 
