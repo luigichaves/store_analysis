@@ -1,14 +1,8 @@
 # store_analysis
 
-Repositório de análise de dados com objetivo de analisar os dados fornecidos de uma loja e identificar insights e padrões, para, em seguida, criar um modelo de previsão para prever a probabilidade de um cliente dar uma resposta positiva à uma oferta. Desafios do projeto:
-* Visualização de dados;
-* Exploração de dados;
-* Tratamento de dados;
-* Questionamento;
-* Solução de problemas;
-* Cálculos de dados;
-* Agregação de dados;
-* Análise de dados.
+Neste projeto, irei criar um repositório de análise de dados com o objetivo de analisar as informações fornecidas por uma loja e identificar padrões e insights valiosos. Utilizando técnicas de análise de dados, irei criar um modelo de previsão para prever a probabilidade de um cliente responder positivamente à uma oferta.
+
+Os desafios deste projeto incluem a visualização de dados, a exploração do conjunto de dados, o tratamento de dados incompletos ou inconsistentes, o questionamento crítico dos resultados obtidos, a solução de problemas relacionados à análise de dados e a realização de cálculos e agregação de dados.
 
 # Início
 Dataset utilizado:
