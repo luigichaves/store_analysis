@@ -53,3 +53,36 @@ Bibliotecas utilizadas:
 
 ---
 
+# Apresentação
+
+## Sobre os dados:
+
+![perc_10](https://user-images.githubusercontent.com/105527623/213175396-bec73389-8ae5-4db2-b76e-c2110101fa42.png)
+
+Nosso conjunto de dados é composto majoritariamente por clientes que não adquiriram nenhuma oferta. Em azul e representado pelo valor 0 temos aqueles que não aceitaram oferta alguma (85%), e em laranja, aqueles que responderam positivamente (15%)
+
+|Education|Percentual| |Marital_Status|Percentual| 
+|---------|----------| |--------------|----------|
+|Graduation|50%| |Married|65%|
+|Phd|21%|
+|Master|25%|
+|Basic|2%|
+
+![cat_perc](https://user-images.githubusercontent.com/105527623/213177187-777555c7-0035-49c0-a611-2233da5520e0.png) 
+
+Aqui temos o percentual de clientes que atendem às seguintes características dentro do nosso dataset. 43% são graduados, 57% são casados e grande parte não possui filhos, ou possui apenas 1 já jovem. Repare que o percentual ao que refere a barra azul conta somente aqueles que não aceitaram nenhuma oferta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
