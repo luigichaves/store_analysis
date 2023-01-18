@@ -86,7 +86,7 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 |1|46%|
 |2|2%|
 
-![cat_perc](https://user-images.githubusercontent.com/105527623/213193321-55c3e3ff-2a7c-4b7e-8639-5521e90e5bcb.png)
+![cat_perc](https://user-images.githubusercontent.com/105527623/213193851-6179bd2a-ef33-40cb-aa30-4a5fb15707dd.png)
 
 ---
 
