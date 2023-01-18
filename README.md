@@ -57,7 +57,7 @@ Bibliotecas utilizadas:
 
 ![perc_10](https://user-images.githubusercontent.com/105527623/213175396-bec73389-8ae5-4db2-b76e-c2110101fa42.png)
 
-Nosso conjunto de dados é composto majoritariamente por clientes que não adquiriram nenhuma oferta. Em azul, e representado pelo valor 0, temos aqueles que não aceitaram oferta alguma (85%), e em laranja, aqueles que responderam positivamente (15%). Abaixo temos o percentual de de clientes de acordo com algumas características:
+Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de dados não aderiu a nenhuma oferta. Em laranja, temos aqueles que aceitaram alguma oferta (15%). Confira abaixo os percentuais de clientes de acordo com algumas características:"
 
 
 |Education|Percentual|  
@@ -85,6 +85,8 @@ Nosso conjunto de dados é composto majoritariamente por clientes que não adqui
 |0|52%|
 |1|46%|
 |2|2%|
+
+![cat_perc](https://user-images.githubusercontent.com/105527623/213193321-55c3e3ff-2a7c-4b7e-8639-5521e90e5bcb.png)
 
 ---
 
