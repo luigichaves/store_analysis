@@ -59,6 +59,7 @@ Bibliotecas utilizadas:
 
 Nosso conjunto de dados é composto majoritariamente por clientes que não adquiriram nenhuma oferta. Em azul, e representado pelo valor 0, temos aqueles que não aceitaram oferta alguma (85%), e em laranja, aqueles que responderam positivamente (15%). Abaixo temos o percentual de de clientes de acordo com algumas características:
 
+
 |Education|Percentual|  
 |---------|----------| 
 |Graduation|50%| 
