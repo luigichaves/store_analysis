@@ -111,6 +111,8 @@ img
 * 2012 e 2014 venderam muito menos em relação a 2014. Consequentemente, 2014 teve mais clientes que aderiram à oferta.
 img
 
+em andamento
+
 
 
 
