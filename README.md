@@ -92,6 +92,24 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 
 # Insights
 
+* Maior parte do nosso público é graduado, ou casado, ou não tem filhos.
+img
+* Aqueles que possuem maior probabilidade de adquirir alguma oferta são: solteiros ou viúvos, PhD's, ou sem filhos.
+img
+* A renda anual tem certa relação com o total gasto, como o esperado.
+img
+* Clientes que gastam mais, tem uma chance maior de aceitar positivamente uma oferta.
+img
+* Clientes sem filhos tendem a gastar mais. Casados e solteiros também.
+img
+* Grandes consumidores de vinho, joias e carne são mais propensos a adquirir à oferta.
+(imgs <)
+  * PhD's, divorciados e sem filhos tendem a gastar mais com vinho.
+  * Graduados, viúvos e divorciados, e sem crianças em casa tendem a gastar mais em produtos de ouro.
+  * Graduados gastam mais em carne. Solteiros também, mas ainda próximos dos demais. Pessoas sem filhos tendem a consumir mais.
+  
+* 2012 e 2014 venderam muito menos em relação a 2014. Consequentemente, 2014 teve mais clientes que aderiram à oferta.
+img
 
 
 
