@@ -57,7 +57,7 @@ Bibliotecas utilizadas:
 
 ![perc_10](https://user-images.githubusercontent.com/105527623/213175396-bec73389-8ae5-4db2-b76e-c2110101fa42.png)
 
-Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de dados não aderiu a nenhuma oferta. Em laranja, temos aqueles que aceitaram alguma oferta (15%). Confira abaixo os percentuais de clientes de acordo com algumas características:"
+Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de dados não aderiu a nenhuma oferta. Em laranja, temos aqueles que aceitaram alguma oferta (15%). Confira abaixo os percentuais de clientes de acordo com algumas características:
 
 
 |Education|Percentual|  
