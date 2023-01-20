@@ -96,8 +96,11 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 * Aqueles que possuem maior probabilidade de adquirir alguma oferta são: solteiros ou viúvos, PhD's, ou sem filhos.
 
 ![prob_eciv](https://user-images.githubusercontent.com/105527623/213689708-8805549a-83c2-4b1e-ae4a-5fb265f7f934.png)
+
 ![prob_ed](https://user-images.githubusercontent.com/105527623/213689778-a0ae10ba-e8b5-4aa8-92b8-cd69f192773b.png)
+
 ![prob_cri](https://user-images.githubusercontent.com/105527623/213689800-7f49808b-4bb7-4df5-9e49-d536d4518f49.png)
+
 ![prob_jv](https://user-images.githubusercontent.com/105527623/213689837-7049b73b-6767-420c-9980-f5e8f9500c8a.png)
 
 * A renda anual tem certa relação com o total gasto, como o esperado.
