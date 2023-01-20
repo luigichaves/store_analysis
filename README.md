@@ -92,24 +92,45 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 
 # Insights
 
-* Maior parte do nosso público é graduado, ou casado, ou não tem filhos.
-img
+* Maior parte do nosso público é graduado, ou casado, ou não tem filhos, como visto no gráfico acima.
 * Aqueles que possuem maior probabilidade de adquirir alguma oferta são: solteiros ou viúvos, PhD's, ou sem filhos.
-img
+
+![prob_cri](https://user-images.githubusercontent.com/105527623/213687030-600c360d-2a43-444b-b582-941de13b988a.png)
+![prob_eciv](https://user-images.githubusercontent.com/105527623/213687033-3431a63e-f920-45b5-be0b-3b8064f05fa7.png)
+![prob_ed](https://user-images.githubusercontent.com/105527623/213687037-37e0c8c8-6bd9-4bc4-8a45-7a8e45db454f.png)
+![prob_jv](https://user-images.githubusercontent.com/105527623/213687039-73cc5d9d-8a86-4efd-8b64-03b0970db368.png)
+
 * A renda anual tem certa relação com o total gasto, como o esperado.
-img
+
+![ttl](https://user-images.githubusercontent.com/105527623/213687086-33c578c6-60b7-4d95-80d2-cdfa1ab7df9a.png)
+
 * Clientes que gastam mais, tem uma chance maior de aceitar positivamente uma oferta.
-img
+
+![stplot](https://user-images.githubusercontent.com/105527623/213687627-6d8114d7-4865-48b5-9a03-575b0c57985b.png)
+
 * Clientes sem filhos tendem a gastar mais. Casados e solteiros também.
-img
-* Grandes consumidores de vinho, joias e carne são mais propensos a adquirir à oferta.
-(imgs <)
+
+![cat_box](https://user-images.githubusercontent.com/105527623/213688276-02d89acf-a4cd-48f5-b203-363876c62c24.png)
+
+* A análise de cada tipo de produto mostrou que grandes consumidores de vinho, joias e carne com uma renda anual mais alta são mais propensos a adquirir à oferta.
+
+![mntwines](https://user-images.githubusercontent.com/105527623/213688637-f8d202a4-2d76-484b-bc3f-41db5a15a145.png)
+![mntgold](https://user-images.githubusercontent.com/105527623/213688678-92e9e5f7-4bb5-4678-801b-d6d953dac715.png)
+![mntmeat](https://user-images.githubusercontent.com/105527623/213688709-7c13f031-8663-446b-ad3c-a25306b38ed2.png)
+
+* Dito isso vejamos aqueles que mais consomem vinho, produtos de ouro e carne:
+
   * PhD's, divorciados e sem filhos tendem a gastar mais com vinho.
+  ![1](https://user-images.githubusercontent.com/105527623/213689016-ff793fba-f9fb-4ea6-bbb6-7a13877800d2.png)
   * Graduados, viúvos e divorciados, e sem crianças em casa tendem a gastar mais em produtos de ouro.
+  ![2](https://user-images.githubusercontent.com/105527623/213689053-cd24b03b-351c-4718-81b1-bf817ae4a4c7.png)
   * Graduados gastam mais em carne. Solteiros também, mas ainda próximos dos demais. Pessoas sem filhos tendem a consumir mais.
-  
+  ![3](https://user-images.githubusercontent.com/105527623/213689141-5f0b6d3e-67be-42f0-a47c-504ea0e4748f.png)
+
 * 2012 e 2014 venderam muito menos em relação a 2014. Consequentemente, 2014 teve mais clientes que aderiram à oferta.
-img
+
+![vol_vd_ano](https://user-images.githubusercontent.com/105527623/213689196-46f6f08e-cefa-4c96-8ce6-d0c1fc3662ad.png)
+
 
 em andamento
 
