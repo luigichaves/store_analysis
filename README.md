@@ -5,7 +5,7 @@ Neste projeto, irei criar um repositório de análise de dados com o objetivo de
 Os desafios deste projeto incluem a visualização de dados, a exploração do conjunto de dados, o tratamento de dados incompletos ou inconsistentes, o questionamento crítico dos resultados obtidos, a solução de problemas relacionados à análise de dados e a realização de cálculos e agregação de dados.
 
 # Início
-Dataset utilizado:
+Dataset utilizado (Superstore Marketing Campaign Dataset):
 * https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
 
 Ferramentas utilizadas:
@@ -138,6 +138,7 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 
 ![vol_vd_ano](https://user-images.githubusercontent.com/105527623/213689196-46f6f08e-cefa-4c96-8ce6-d0c1fc3662ad.png)
 
+# Conclusões
 
 em andamento
 
