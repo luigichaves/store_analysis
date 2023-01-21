@@ -5,7 +5,7 @@ Neste projeto, irei criar um repositório de análise de dados com o objetivo de
 Os desafios deste projeto incluem a visualização de dados, a exploração do conjunto de dados, o tratamento de dados incompletos ou inconsistentes, o questionamento crítico dos resultados obtidos, a solução de problemas relacionados à análise de dados e a realização de cálculos e agregação de dados.
 
 # Início
-Dataset utilizado:
+Dataset utilizado (Superstore Marketing Campaign Dataset):
 * https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
 
 Ferramentas utilizadas:
@@ -52,4 +52,106 @@ Bibliotecas utilizadas:
 *Objetivo* - A loja quer prever a probabilidade de o cliente dar uma resposta positiva e quer identificar os diferentes fatores que afetam a resposta do cliente. Precisa analisar os dados fornecidos para identificar esses fatores e, em seguida, criar um modelo de previsão para prever a probabilidade de um cliente dar uma resposta positiva.
 
 ---
+
+## Sobre os dados:
+
+![perc_10](https://user-images.githubusercontent.com/105527623/213175396-bec73389-8ae5-4db2-b76e-c2110101fa42.png)
+
+Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de dados não aderiu a nenhuma oferta. Em laranja, temos aqueles que aceitaram alguma oferta (15%). Confira abaixo os percentuais de clientes de acordo com algumas características:
+
+
+|Education|Percentual|  
+|---------|----------| 
+|Graduation|50%| 
+|Phd|21%|
+|Master|25%|
+|Basic|2%|
+
+|Marital_Status|Percentual|
+|--------------|----------|
+|Married|65%|
+|Single|22%|
+|Divorced|10%|
+|Widow|3%|
+
+|Kidhome|Percentual|
+|-------|----------|
+|0|58%|
+|1|40%|
+|2|2%|
+
+|Teenhome|Percentual|
+|--------|----------|
+|0|52%|
+|1|46%|
+|2|2%|
+
+![cat_perc](https://user-images.githubusercontent.com/105527623/213194747-f203abae-aa18-45a7-9739-8404c80e1988.png)
+
+---
+
+# Insights
+
+* Maior parte do nosso público é graduado, ou casado, ou não tem filhos, como visto no gráfico acima.
+* Aqueles que possuem maior probabilidade de adquirir alguma oferta são: solteiros ou viúvos, PhDs, ou sem filhos.
+
+![prob_eciv](https://user-images.githubusercontent.com/105527623/213689708-8805549a-83c2-4b1e-ae4a-5fb265f7f934.png)
+> Solteiros e viúvos tem mais probabilidade de aceitar uma oferta. Divorciados não ficam muito atrás. Casados possuem a menor probabilidade.
+
+![prob_ed](https://user-images.githubusercontent.com/105527623/213689778-a0ae10ba-e8b5-4aa8-92b8-cd69f192773b.png)
+> PhDs tem a maior chance disparada de aceitar uma oferta. Graduados e Mestres estão bem semelhantes.
+
+![prob_cri](https://user-images.githubusercontent.com/105527623/213689800-7f49808b-4bb7-4df5-9e49-d536d4518f49.png)
+> Clientes sem filhos crianças tem mais chances de adquirir uma oferta. O gráfico mostra claramente que esta probabilidade diminui com o aumento de crianças em casa.
+
+![prob_jv](https://user-images.githubusercontent.com/105527623/213689837-7049b73b-6767-420c-9980-f5e8f9500c8a.png)
+> Da mesma forma, clientes sem filhos jovens são mais propensos a aceitar uma oferta.
+
+* A renda anual tem certa relação com o total gasto, como o esperado.
+
+![ttl](https://user-images.githubusercontent.com/105527623/213687086-33c578c6-60b7-4d95-80d2-cdfa1ab7df9a.png)
+
+* Clientes que gastam mais, tem uma chance maior de aceitar positivamente uma oferta.
+
+![stplot](https://user-images.githubusercontent.com/105527623/213687627-6d8114d7-4865-48b5-9a03-575b0c57985b.png)
+
+* Clientes sem filhos tendem a gastar mais. Casados e solteiros também.
+
+![cat_box](https://user-images.githubusercontent.com/105527623/213688276-02d89acf-a4cd-48f5-b203-363876c62c24.png)
+
+* A análise de cada tipo de produto mostrou que grandes consumidores de vinho, joias e carne com uma renda anual mais alta são mais propensos a adquirir à oferta.
+
+![mntwines](https://user-images.githubusercontent.com/105527623/213688637-f8d202a4-2d76-484b-bc3f-41db5a15a145.png)
+![mntgold](https://user-images.githubusercontent.com/105527623/213688678-92e9e5f7-4bb5-4678-801b-d6d953dac715.png)
+![mntmeat](https://user-images.githubusercontent.com/105527623/213688709-7c13f031-8663-446b-ad3c-a25306b38ed2.png)
+
+* Dito isso vejamos aqueles que mais consomem vinho, produtos de ouro e carne:
+
+  * PhD's, divorciados e sem filhos tendem a gastar mais com vinho.
+  ![1](https://user-images.githubusercontent.com/105527623/213689016-ff793fba-f9fb-4ea6-bbb6-7a13877800d2.png)
+  * Graduados, viúvos e divorciados, e sem crianças em casa tendem a gastar mais em produtos de ouro.
+  ![2](https://user-images.githubusercontent.com/105527623/213689053-cd24b03b-351c-4718-81b1-bf817ae4a4c7.png)
+  * Graduados gastam mais em carne. Solteiros também, mas ainda próximos dos demais. Pessoas sem filhos tendem a consumir mais.
+  ![3](https://user-images.githubusercontent.com/105527623/213689141-5f0b6d3e-67be-42f0-a47c-504ea0e4748f.png)
+
+* 2012 e 2014 venderam muito menos em relação a 2014. Consequentemente, 2014 teve mais clientes que aderiram à oferta.
+
+![vol_vd_ano](https://user-images.githubusercontent.com/105527623/213689196-46f6f08e-cefa-4c96-8ce6-d0c1fc3662ad.png)
+
+# Conclusões
+
+em andamento
+
+
+
+
+
+
+
+
+
+
+
+
+
 
