@@ -149,3 +149,12 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 * Isto para que possamos indicar a oferta premium com eficiência à aqueles que possuem uma chance maior de aceitar positivamente a assinatura.
 
 ## Mais observações
+
+* A empresa deve investir em meios fáceis de oportunidade do cliente dar feedback, pois como vemos aqui, menos de 1% dos clientes tiveram alguma reclamação.
+
+![complain](https://user-images.githubusercontent.com/105527623/213865393-5b306a3a-8e69-4ba3-8cac-624404ea2cb5.png)
+
+* Devemos investigar a causa de um aumento repentino nas vendas de 2014, e tentar reproduzir novamente nos anos seguintes, visto que houve um aumento seguido de uma queda muito grande.
+
+![res_year](https://user-images.githubusercontent.com/105527623/213865493-3b14d3f1-701f-4d1f-9daf-3dddfc0dfc9c.png)
+
