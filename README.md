@@ -154,7 +154,7 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 
 ![complain](https://user-images.githubusercontent.com/105527623/213865393-5b306a3a-8e69-4ba3-8cac-624404ea2cb5.png)
 
-* Devemos investigar a causa de um aumento repentino nas vendas de 2014, e tentar reproduzir novamente nos anos seguintes, visto que houve um aumento seguido de uma queda muito grande.
+* Devemos investigar a causa de um aumento repentino nas vendas de 2014, e tentar reproduzir novamente nos anos seguintes, visto que houve um aumento seguido de uma queda muito grande. Abaixo temos a porcentagem de ofertas aceitas em cada ano.
 
 ![res_year](https://user-images.githubusercontent.com/105527623/213865493-3b14d3f1-701f-4d1f-9daf-3dddfc0dfc9c.png)
 
