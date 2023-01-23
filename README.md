@@ -158,3 +158,4 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 
 ![res_year](https://user-images.githubusercontent.com/105527623/213865493-3b14d3f1-701f-4d1f-9daf-3dddfc0dfc9c.png)
 
+em andamento
