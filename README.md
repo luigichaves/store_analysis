@@ -140,18 +140,23 @@ Representados por 0 ou na cor azul, a maioria dos clientes em nosso conjunto de 
 
 # Conclusões
 
+* A campanha de marketing para a oferta premium deve buscar grandes consumidores em geral, podendo então, direcionar a campanha para clientes sem filhos, casados ou solteiros, cuja tendem a gastar mais.
+* Deve-se também, aplicar estratégias de marketing para os produtos de vinho, ouro e carne. Visando aqueles que tem preferência por estes produtos comprarem mais, visto que estes são mais propensos a obter a assinatura premium.
+* Aos produtos citados acima, podemos direcionar o marketing da seguinte forma:
+  * Aos grandes consumidores de vinho, direcionaremos a estratégia de marketing à PhD's, divorciados e sem filhos.
+  * Aos grandes consumidore de produtos de ouro, direcionaremos a estratégia de marketing à Graduados, viúvos e divorciados, e sem crianças em casa.
+  * Aos grandes cosumidores de carne, direcionaremos a estratégia de marketing à graduados e sem filhos.
+
+Isto para que possamos indicar a oferta premium com eficiência à aqueles que possuem uma chance maior de aceitar positivamente a assinatura.
+
+## Mais observações
+
+* A empresa deve investir em meios fáceis de oportunidade do cliente dar feedback, pois como vemos aqui, menos de 1% dos clientes tiveram alguma reclamação.
+
+![complain](https://user-images.githubusercontent.com/105527623/213865393-5b306a3a-8e69-4ba3-8cac-624404ea2cb5.png)
+
+* Devemos investigar a causa de um aumento repentino nas vendas de 2014, e tentar reproduzir novamente nos anos seguintes, visto que houve um aumento seguido de uma queda muito grande. Abaixo temos a porcentagem de ofertas aceitas em cada ano.
+
+![res_year](https://user-images.githubusercontent.com/105527623/213865493-3b14d3f1-701f-4d1f-9daf-3dddfc0dfc9c.png)
+
 em andamento
-
-
-
-
-
-
-
-
-
-
-
-
-
-
