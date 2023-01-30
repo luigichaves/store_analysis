@@ -1,0 +1,29 @@
+* alvo = Variável que se pretende atingir
+* previsores = variáveis categóricas transformadas manualmente, sem escalonar
+* previsores_esc = variáveis categóricas transformadas manualmente, escalonada
+* previsore2 = variáveis categóricas transformadas pelo label encoder, sem escalonar
+* previsore2_esc = variáveis categóricas transformadas pelo label encoder, escalonada
+* previsores3 = conjunto de variáveis previsoras transformadas pelo OneHotEncouder e LabelEncouder, sem escalonar
+* previsores3_esc = conjunto de variáveis previsoras transformadas pelo OneHotEncouder e LabelEncouder, escalonada
+* previsores4 = conjunto de variáveis previsoras transformadas pelo OneHotEncouder e manualmente, sem escalonar
+* previsores4_esc = conjunto de variáveis previsoras transformadas pelo OneHotEncouder e manualmente, escalonada
+
+NAIVE BAYES ->  previsores: 77%
+		previsores_esc: 77.52%
+		previsores2: 76.93%
+		previsores2_esc: 77.38%
+		previsores3: 77.38%
+		previsores3_esc: 75.14%
+		previsores4: 77.38%
+		previsores4_esc:75.14%
+
+		VALIDAÇÃO CRUZADA: 72.47%
+----------------------------------------------------------------------------------------------------------------------------
+SVM ->          previsores:
+
+
+
+
+
+
+		
