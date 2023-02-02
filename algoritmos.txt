@@ -34,11 +34,12 @@ REGRESSÃO L.	previsores:		86.60% -- LogisticRegression(random_state=1, max_iter
 		previsores_esc:		86.75% -- LogisticRegression(random_state=1, max_iter=100, penalty= 'l1', tol=0.0001, C=3, solver='liblinear')
 		previsores2:		87.35% -- LogisticRegression(random_state=1, max_iter=30, penalty= 'l1', tol=0.0001, C=10, solver='liblinear')
 		previsores2_esc:	87.20% -- LogisticRegression(random_state=1, max_iter=100, penalty= 'l2', tol=0.0001, C=3, solver='lbfgs')
-		previsores3:
-		previsores3_esc:
-		previsores4:
-		previsores4_esc:
+		previsores3:		86.60% -- LogisticRegression(random_state=1, max_iter=10000, penalty= 'l1', tol=0.0001, C=5, solver='liblinear')
+		previsores3_esc:	86.60%
+		previsores4:		86.30% -- LogisticRegression(random_state=1, max_iter=10000, penalty= 'l2', tol=0.0001, C=4, solver='liblinear')
+		previsores4_esc:	86.60%
 
+		VALIDAÇÃO CRUZADA:	86.41%
 ----------------------------------------------------------------------------------------------------------------------------
 KNN		previsores:
 		previsores_esc:
