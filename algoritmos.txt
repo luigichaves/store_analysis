@@ -43,14 +43,14 @@ REGRESSÃO L.	previsores:		86.60% -- LogisticRegression(random_state=1, max_iter
 ----------------------------------------------------------------------------------------------------------------------------
 KNN		previsores:		85.41% -- KNeighborsClassifier(n_neighbors=7, metric='minkowski', p=1)
 		previsores_esc:		86.45% -- KNeighborsClassifier(n_neighbors=5, metric='minkowski', p=1)
-		previsores2:		
-		previsores2_esc:
-		previsores3:
-		previsores3_esc:
-		previsores4:
-		previsores4_esc:
+		previsores2:		85.41%
+		previsores2_esc:	85.71%
+		previsores3:		85.41%
+		previsores3_esc:	85.41%
+		previsores4:		85.41%
+		previsores4_esc:	85.41%
 
-		VALIDAÇÃO CRUZADA:
+		VALIDAÇÃO CRUZADA:	86.41%
 ----------------------------------------------------------------------------------------------------------------------------
 Arv. Decisão	previsores:
 		previsores_esc:
